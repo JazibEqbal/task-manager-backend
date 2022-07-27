@@ -1,2 +1,2 @@
 node_modules/
-config/dot.env
+./config/dot.env
